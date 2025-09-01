@@ -5,7 +5,7 @@ Simple JavaScript scripts to automate the Pi² reactor mini-game. These scripts 
 ## How to Use
 
 ### Console Copy-Paste
-1. Open the Pi² game page in your browser
+1. Open the [Pi² game page](https://portal.pi2.network/reactor) in your browser
 2. Press `F12` to open Developer Tools
 3. Go to the **Console** tab
 4. Copy and paste one of the scripts below
